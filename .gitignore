@@ -1,0 +1,12 @@
+# Fichiers générés
+*.o
+*.elf
+*.asm
+*.sym
+user/_*
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
