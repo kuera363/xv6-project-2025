@@ -11,7 +11,7 @@ Projet de modification du noyau xv6 dans le cadre du cours
 ## Structure du dépôt
 - `kernel/` : code noyau modifié
 - `user/` : programmes de test
-- `docs/` : rapports PDF et sources LaTeX
+- `docs/` : rapports PDF
 
 ## Compilation
 ```bash
